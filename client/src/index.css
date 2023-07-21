@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* //////////////////////////////////////////////////////////// */
+
+/* Reset default input styles (optional, for demonstration purposes) */
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: rgb(255, 212, 192);
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: rgb(197, 35, 62);
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: rgb(106, 21, 35);
+}
+:-moz-placeholder { /* Firefox 18- */
+  color: rgb(195, 26, 55);
+}
+
+#name {
+  border-radius: 4px;
+  margin-left: 20px;
+}
+
+#email{
+  border-radius: 4px;
+  margin-left: 20px;
+}
+
+#phone{
+  border-radius: 4px;
+  margin-left: 20px;
+}
+
+#work{
+  border-radius: 4px;
+  margin-left: 20px;
+}
+
+#password{
+  border-radius: 4px;
+  margin-left: 20px;
+}
+
+#cpassword{
+  border-radius: 4px;
+  margin-left: 20px;
+}
+
+#signup{
+  border-radius: 4px;
+  margin-left: 30px;
+}
+
+#sign-in{
+  border-radius: 4px;
+  margin-left: 30px;
+}
+
+
+.contact_info_item{
+
+  margin-left: 20px;
+}
+
+.email_info_item{
+
+  margin-left: 50px;
+  
+}
+
+.address_info_item{
+
+  margin-left: 50px;
+  
+}
+
+
+/* .contact_form_title{
+  margin-top: 0;
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:large;
+  position:relative;
+  bottom:-60px;
+  vertical-align:bottom;
+  font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #553c9a, #b393d3);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+} */
+
+
+.home-page{
+  text-align: center;
+  margin-top: 0;
+  text-align: center;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:large;
+  position:relative;
+  bottom:-60px;
+  vertical-align:bottom;
+  font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #553c9a, #b393d3);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
