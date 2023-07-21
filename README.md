@@ -1,11 +1,11 @@
 # SecureConnect---MERN
 MERN SecureConnect is a secure and user-centric web application that allows users to create accounts, view and manage their personal details, and  contact the project developer. With robust middleware protection, unauthorized access is prevented, ensuring data privacy. The application utilizes JWT  for user verification.
 
-# MERN ProfileGuard
+# MERN SecureConnect
 
-![MERN ProfileGuard Logo](url-to-your-logo.png) <!-- If you have a logo, add it here -->
 
-MERN ProfileGuard is a secure and user-friendly web application built using the MERN (MongoDB, Express, React, Node.js) stack. It allows users to register, view their profiles, and contact the project developer while ensuring data protection through middleware and JWT verification.
+
+MERN SecureConnect is a secure and user-friendly web application built using the MERN (MongoDB, Express, React, Node.js) stack. It allows users to register, view their profiles, and contact the project developer while ensuring data protection through middleware and JWT verification.
 
 ## Table of Contents
 
